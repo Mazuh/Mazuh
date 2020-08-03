@@ -1,16 +1,13 @@
-### Hi there 👋
+### I'm Marcell 👋
 
-<!--
-**Mazuh/Mazuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there.
 
-Here are some ideas to get you started:
+I'm a T-shaped (full-stack) developer with nearly a decade of experience 
+building high-availability applications and distributed systems around the globe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Fields:** WebRTC, telecom, financial, health care, e-commerce.
+- **Favorite Languages:** Elixir, TypeScript, Python.
+- **More buzzwords**: Node, React, Phoenix, Django, Flask, Express,
+Fastify, AWS, GCP, GNU/Linux, Janus, FreeSWITCH, Firebase,
+PostgreSQL, REST, GraphQL.
+
