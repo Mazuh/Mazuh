@@ -1,5 +1,5 @@
 <a href="http://mazuh.github.io/" target="_blank">
-  <img align="right" src="./EeDTNhsX0AUsMDs.png?" alt="Illustration of Mazuh as an Octocat" width="300" height="300" />
+  <img align="right" src="https://github.com/Mazuh/Mazuh/blob/master/EeDTNhsX0AUsMDs.png?raw=true" alt="Illustration of Mazuh as an Octocat" width="300" height="300" />
 </a>
 
 ### Hi there, I'm Marcell 👋
