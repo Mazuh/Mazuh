@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Marcell 👋
 
-- 🔭 I’m currently working on [Evolux Sistemas](https://www.instagram.com/evoluxbr/?hl=pt-br) contributing at [Flowroute](https://www.flowroute.com/);
+- 🔭 I’m currently working for [Evolux Sistemas](https://www.instagram.com/evoluxbr/?hl=pt-br) on [Flowroute](https://www.flowroute.com/) projects;
 - 🌱 Always learning something about Agile, JavaScript, Python, React and Django;
 - 💬 I founded and maintain a local community called [Natal JS](https://github.com/NatalJS);
 - ✍️  I’m also often writing articles in Portuguese: [@marcellguilherme](https://medium.com/@marcellguilherme) (Medium);
