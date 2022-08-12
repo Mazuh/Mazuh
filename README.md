@@ -6,8 +6,9 @@
 
 - 🌱 Always learning something about Agile, JavaScript, Python and WebRTC;
 - 💬 I founded and maintain a local community called [Natal JS](https://github.com/NatalJS);
-- ✍️  I’m also often writing articles in Portuguese: [@marcellguilherme](https://medium.com/@marcellguilherme) (Medium);
-- 📫 How to reach me: [@marcell-mz](https://twitter.com/marcell_mz) (Twitter, EN/PT);
-and [@mazuh](https://www.linkedin.com/in/mazuh/) (LinkedIn, EN/PT);
+- ✍️  Medium: [@marcellguilherme](https://medium.com/@marcellguilherme) (PT);
+- 📫 Twitter: [@marcell-mz](https://twitter.com/marcell_mz) (EN/PT);
+and [@mazuh](https://www.linkedin.com/in/mazuh/) (EN/PT);
+- 📫 LinkedIn: [@mazuh](https://www.linkedin.com/in/mazuh/) (LinkedIn, EN/PT);
 - 😄 Pronouns: he/him (EN), ele/dele (PT);
 - ⚡  Introverted, observant, thinking, and judging personality traits ([ISTJ-A](https://www.16personalities.com/istj-personality)).
