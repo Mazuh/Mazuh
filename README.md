@@ -8,7 +8,7 @@
 - 💬 I founded and maintain a local community called [Natal JS](https://github.com/NatalJS);
 - ✍️  Medium: [@marcellguilherme](https://medium.com/@marcellguilherme) (PT);
 - 📫 Twitter: [@marcell-mz](https://twitter.com/marcell_mz) (EN/PT);
-and [@mazuh](https://www.linkedin.com/in/mazuh/) (EN/PT);
-- 📫 LinkedIn: [@mazuh](https://www.linkedin.com/in/mazuh/) (LinkedIn, EN/PT);
+- 📫 LinkedIn: [@mazuh](https://www.linkedin.com/in/mazuh/) (EN/PT);
 - 😄 Pronouns: he/him (EN), ele/dele (PT);
 - ⚡  Introverted, observant, thinking, and judging personality traits ([ISTJ-A](https://www.16personalities.com/istj-personality)).
+- 🙌🏽 Fascinated by entrepreneurship and gaming.
